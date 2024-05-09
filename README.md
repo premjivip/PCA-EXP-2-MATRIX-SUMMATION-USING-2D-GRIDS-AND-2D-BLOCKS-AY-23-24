@@ -3,7 +3,7 @@
 ## NAME: PREMJI P
 ## REG.NO: 212221043004
 ## EX. NO: 02
-## DATE:14.03.2024
+## DATE: 29.02.2024
 ## MATRIX SUMMATION WITH A 2D GRID AND 2D BLOCKS
 i. Use the file sumMatrixOnGPU-2D-grid-2D-block.cu ii. Matrix summation with a 2D grid and 2D blocks. Adapt it to integer matrix addition. Find the best execution configuration.
 
